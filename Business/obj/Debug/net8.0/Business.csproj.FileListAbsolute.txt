@@ -9,3 +9,10 @@ C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\obj\
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\bin\Debug\net8.0\Core.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\bin\Debug\net8.0\Data.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\bin\Debug\net8.0\Core.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Business\obj\Debug\net8.0\Business.csproj.Up2Date

@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\about_us_video.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about_us_video.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\banner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\banner_pattern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner_pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\feature_icon_1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature_icon_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\feature_icon_2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature_icon_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\feature_icon_3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature_icon_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\feature_icon_4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature_icon_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\product_list_1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product_list_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\product_list_10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product_list_10.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\product_overlay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\single_product.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single_product.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\single_product_1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single_product_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\single_product_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single_product_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\single_product_3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single_product_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\tranding_item_1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tranding_item_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\tranding_item_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tranding_item_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\tranding_item_3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tranding_item_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\tranding_item_4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tranding_item_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\tranding_item_5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tranding_item_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\tranding_item_6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tranding_item_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Presentation.props",
+      "PackagePath": "build\\Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Presentation.props",
+      "PackagePath": "buildTransitive\\Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

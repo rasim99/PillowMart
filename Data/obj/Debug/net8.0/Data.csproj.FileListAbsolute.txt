@@ -9,3 +9,8 @@ C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\obj\Debu
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\obj\Debug\net8.0\refint\Data.dll
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\obj\Debug\net8.0\Data.pdb
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\bin\Debug\net8.0\Core.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\bin\Debug\net8.0\Core.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Data\obj\Debug\net8.0\Data.csproj.Up2Date
