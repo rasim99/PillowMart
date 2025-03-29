@@ -9,3 +9,5 @@ C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Core\obj\Debu
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\FinalProjectOfMVC\PillowMart\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache

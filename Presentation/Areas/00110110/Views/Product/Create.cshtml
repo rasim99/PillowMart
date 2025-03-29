@@ -1,0 +1,43 @@
+﻿@using Business.Models.Admin.Product
+@model ProductCreateVM
+<form enctype="multipart/form-data" class="w-75 ml-4" asp-controller="Product" asp-action="Create" method="post">
+
+	<div class="form-group">
+		<label asp-for="Name"></label>
+		<input asp-for="Name" class="form-control" placeholder="Enter Name" />
+		<span class="text-danger" asp-validation-for="Name"></span>
+	</div>
+
+	<div class="form-group">
+		<label asp-for="Desciption"></label>
+		<input asp-for="Desciption" class="form-control" placeholder="Enter Desciption" />
+		<span class="text-danger" asp-validation-for="Desciption"></span>
+	</div>
+
+	<div class="form-group">
+		<label asp-for="Photo"></label>
+		<input asp-for="Photo" class="form-control" placeholder="choose photo" />
+		<span class="text-danger" asp-validation-for="Photo"></span>
+	</div>
+
+
+	<div class="form-group">
+		<label asp-for="StockQuantity"></label>
+		<input asp-for="StockQuantity" class="form-control" placeholder="Enter Stock Quantity" />
+		<span class="text-danger" asp-validation-for="StockQuantity"></span>
+	</div>
+
+	<div class="form-group">
+		<label asp-for="Price"></label>
+		<input asp-for="Price" class="form-control" placeholder="Enter Price" />
+		<span class="text-danger" asp-validation-for="Price"></span>
+	</div>
+
+	<div class="form-group">
+		<label asp-for="CategoryId"></label>
+		<select asp-for="CategoryId" asp-items="Model.Categories"></select>
+		<span class="text-danger" asp-validation-for="CategoryId"></span>
+	</div>
+	<button type="submit" class="btn btn-primary">CREATE</button>
+	<a class="btn btn-outline-info" asp-controller="Product" asp-action="Index">Cancel</a>
+</form>

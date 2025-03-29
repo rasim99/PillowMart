@@ -1,0 +1,108 @@
+﻿@using Business.Models.Admin.Product
+@model ProductFilterVM
+<form class=" row p-2">
+	<div class="col-12">
+		<div class="form-group">
+			<label asp-for="Name">	</label>
+			<input asp-for="Name" class="form-control">
+		</div>
+	</div>
+	<div class="col-6">
+		<div class="form-group">
+			<label asp-for="MinQuantity">	</label>
+			<input asp-for="MinQuantity" class="form-control">
+		</div>
+	</div>
+	<div class="col-6">
+		<div class="form-group">
+			<label asp-for="MaxQuantity">	</label>
+			<input asp-for="MaxQuantity" class="form-control">
+		</div>
+	</div>
+
+	<div class="col-6">
+		<div class="form-group">
+			<label asp-for="MinPrice">	</label>
+			<input asp-for="MinPrice" class="form-control">
+		</div>
+	</div>
+	<div class="col-6">
+		<div class="form-group">
+			<label asp-for="MaxPrice">	</label>
+			<input asp-for="MaxPrice" class="form-control">
+		</div>
+	</div>
+	<div class="col-12">
+		<div class="form-group">
+			<label asp-for="Categories"></label>
+			<select multiple asp-for="CategoriesIds" asp-items="@Model.Categories" class="form-control">
+				<option value="">All</option>
+
+			</select>
+		</div>
+	</div>
+
+	<div class="col-6">
+		<div class="form-group">
+			<label asp-for="CreatedStartDate">	</label>
+			<input asp-for="CreatedStartDate" class="form-control">
+		</div>
+	</div>
+
+	<div class="col-6">
+		<div class="form-group">
+			<label asp-for="CreatedEndDate">	</label>
+			<input asp-for="CreatedEndDate" class="form-control">
+		</div>
+	</div>
+
+	<div class="col-2">
+		<button class="btn btn-outline-info">SEARCH</button>
+
+	</div>
+</form>
+@if (Model.Products.Count != 0)
+{
+
+
+	<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+		<thead>
+			<tr>
+				<th class="text-success">Photo</th>
+				<th class="text-info">Name</th>
+				<th class="text-info">Description</th>
+				<th class="text-danger">Price</th>
+				<th class="text-danger">Stock Weight</th>
+				<th class="text-danger">Category</th>
+				<th>Actions</th>
+			</tr>
+		</thead>
+
+		<tbody>
+
+			@foreach (var product in Model.Products)
+			{
+				<tr>
+					<td class="text-gray-500 w-25"><img style="width:50%; transform:translateX(80px); height:100px; border-radius:5px; object-fit:cover" src="~/assets/images/products/@product.PhotoName" title="Photo" /></td>
+					<td class="text-gray-500">@product.Name</td>
+					<td class="text-gray-500">@product.Description.Substring(0, 8)</td>
+					<td class="text-gray-500">$@product.Price</td>
+					<td class="text-gray-500">@product.StockQuantity </td>
+					<td class="text-gray-500">@product.Category.Name</td>
+					<td class="text-gray-500 text-center " style="transform:translateY(20px);">
+						<a class="btn btn-primary" asp-controller="Product" asp-action="Update" asp-route-id="@product.Id">Update</a>
+						<form class="d-inline" method="post" asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id">
+							<button type="submit" class="btn btn-outline-danger">Delete</button>
+						</form>
+
+					</td>
+				</tr>
+			}
+
+		</tbody>
+	</table>
+}
+else
+{
+	<h1 class="text-center text-danger"> NOT FOUND ANY PRODUCT</h1>
+}

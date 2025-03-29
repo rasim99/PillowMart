@@ -1,6 +1,118 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
