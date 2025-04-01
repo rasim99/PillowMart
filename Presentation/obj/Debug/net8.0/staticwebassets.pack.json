@@ -205,8 +205,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\tranding_item_6.png"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Basket.js"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\slick.js",
       "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\auth\\src\\style.css",
+      "PackagePath": "staticwebassets\\auth\\src\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

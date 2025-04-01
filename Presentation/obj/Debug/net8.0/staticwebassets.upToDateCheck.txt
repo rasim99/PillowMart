@@ -49,4 +49,6 @@ wwwroot\assets\images\tranding_item_3.png
 wwwroot\assets\images\tranding_item_4.png
 wwwroot\assets\images\tranding_item_5.png
 wwwroot\assets\images\tranding_item_6.png
+wwwroot\assets\js\Basket.js
 wwwroot\assets\js\slick.js
+wwwroot\auth\src\style.css

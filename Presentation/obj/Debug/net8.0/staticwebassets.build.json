@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N7zFQu8VP/78ESt/1orE/MiGcBtuZY87RjAWcw9ouOs=",
+  "Hash": "bf5B1GZ6N0ZgO8jLYdZdGgEcVflvp4BPmwYfH6Gkyio=",
   "Source": "Presentation",
   "BasePath": "_content/Presentation",
   "Mode": "Default",
@@ -1088,6 +1088,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\tranding_item_6.png"
     },
     {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/js/Basket#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dvrc8s0raz",
+      "Integrity": "GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\Basket.js"
+    },
+    {
       "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\slick.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
@@ -1107,6 +1128,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\slick.js"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\auth\\src\\style.css",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "auth/src/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "39lu56wheq",
+      "Integrity": "FwQgcqyeZHI54SAx/OiU9BSCEqXE2QXvLH8jRgHh378=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\auth\\src\\style.css"
     }
   ],
   "Endpoints": [
@@ -5293,6 +5335,88 @@
       ]
     },
     {
+      "Route": "assets/js/Basket.dvrc8s0raz.js",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 18:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dvrc8s0raz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/Basket.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/Basket.js",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 18:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc="
+        }
+      ]
+    },
+    {
       "Route": "assets/js/slick.7tiprc7xvc.js",
       "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\slick.js",
       "Selectors": [],
@@ -5371,6 +5495,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-hXlLcv+RPrbmL2hp9dH49ZvnToFFkoa6eQ7RMy+aMas="
+        }
+      ]
+    },
+    {
+      "Route": "auth/src/style.39lu56wheq.css",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\auth\\src\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FwQgcqyeZHI54SAx/OiU9BSCEqXE2QXvLH8jRgHh378=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 13:50:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39lu56wheq"
+        },
+        {
+          "Name": "label",
+          "Value": "auth/src/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FwQgcqyeZHI54SAx/OiU9BSCEqXE2QXvLH8jRgHh378="
+        }
+      ]
+    },
+    {
+      "Route": "auth/src/style.css",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\auth\\src\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FwQgcqyeZHI54SAx/OiU9BSCEqXE2QXvLH8jRgHh378=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 13:50:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FwQgcqyeZHI54SAx/OiU9BSCEqXE2QXvLH8jRgHh378="
         }
       ]
     }
