@@ -1,4 +1,5 @@
 ﻿$(function () {
+
     $('.addToBasket').on("click", function () {
 
         $.ajax({

@@ -38,10 +38,10 @@ namespace Business.Services.Concrete
         public async Task<(int statusCode,string description)> AddProductAsync(int productId)
         {
             var user = _userManager.GetUserAsync(_contextAccessor.ActionContext.HttpContext.User).Result;
-            if (user == null) return (401,"cannot be added product to basket");
+            if (user == null) return (401,"səbətə məhsul əlavə etmək olmadı!");
             var product =await _productRepistory.GetAsync(productId);
-            if (product == null) return(404,"cannot be add product to basket");
-            if (product.StockQuantity == 0) return (400,"product  out of stock");
+            if (product == null) return(404, "səbətə məhsul əlavə etmək olmadı!");
+            if (product.StockQuantity == 0) return (400,"məhsul  tükənib");
 
             var basket =await _basketRepistory.GetByUserIdAsync(user.Id);
             if (basket == null)
@@ -69,7 +69,7 @@ namespace Business.Services.Concrete
             }
             else
             {
-                if (basketProduct.Quantity == product.StockQuantity) return (400,"added maximum product");
+                if (basketProduct.Quantity == product.StockQuantity) return (400,"maksimal məhsul əlavə edilib");
 
                 basketProduct.Quantity ++;
                 _basketProductRepository.Update(basketProduct);
@@ -77,7 +77,7 @@ namespace Business.Services.Concrete
             }
 
             await _unitOfWork.CommitAsync();
-            return (200,"successfuly added");
+            return (200,"məhsul əlavə edildi");
         }
 
        

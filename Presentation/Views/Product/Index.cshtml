@@ -1,4 +1,7 @@
-﻿                    <!-- breadcrumb start -->
+﻿@using Business.Models.Product
+
+@model List<ProductVM>
+<!-- breadcrumb start -->
 <section id="breadcrumb">
     <div class="container">
         <div class="row">
@@ -44,73 +47,35 @@
             <div class="col-md-8">
                 <div class="product">
                     <div class="row">
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/product_list_1.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
-                            </div>
-                        </div>
 
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/single_product_1.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
-                            </div>
-                        </div>
+                        @foreach (var product in Model)
+                        {
+                            <div class="col-lg-6 col-sm-6">
+                                <div class="single__product__item">
+                                    <img src="/assets/images/products/@product.PhotoName" alt="#" class="img__fluid">
+                                    <h3>@product.Name</h3>
+                                    <p>
+                                        @product.Price manat
 
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/single_product_3.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
-                            </div>
-                        </div>
+                                        <ul>
+                                            @if (product.StockQuantity > 0)
+                                            {
+                                                <li><button data-id="@product.Id" class="addToBasket mt-4 btn btn-outline-success">+</button></li>
+                                            }
+                                            else  
+                                            {
+                                                <button style="cursor:default" class=" mt-4 btn btn-danger">Bitib</button>
 
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/single_product_2.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
-                            </div>
-                        </div>
+                                            }
+                                        </ul>
+                                    </p>
 
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/single_product_1.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
+                                </div>
                             </div>
-                        </div>
+                        }
 
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/product_list_1.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/single_product_3.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6 col-sm-6">
-                            <div class="single__product__item">
-                                <img src="/assets/images/product_list_10.png" alt="#" class="img__fluid">
-                                <h3> <a href="single-product.html">Yumşaq pambıqlı yastıqlar</a> </h3>
-                                <p>5 manatdan başlayaraq</p>
-                            </div>
-                        </div>
                     </div>
-                    <div class="load__more">
-                        <a href="#" class="btn__explore">Load More</a>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -126,5 +91,5 @@
 
 @section Scripts {
     <script src="~/assets/js/slick.js"></script>
-
+    <script src="~/assets/js/Basket.js"></script>
 }

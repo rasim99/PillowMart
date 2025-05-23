@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bf5B1GZ6N0ZgO8jLYdZdGgEcVflvp4BPmwYfH6Gkyio=",
+  "Hash": "KSKN2j1uBxnQePRGOSvwkmB8JrsYueqIDNUVr9P0MqE=",
   "Source": "Presentation",
   "BasePath": "_content/Presentation",
   "Mode": "Default",
@@ -878,6 +878,153 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product_overlay.png"
     },
     {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/products/5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dcxb6wd6t7",
+      "Integrity": "c+y2ftjA/OGC8R4tIQSj7hf97y2gZKoN5E/iAh5vx5w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/products/a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uw70539dgq",
+      "Integrity": "DglZufxhHesX61sQ31RUt03vZhb/8TE9SGCHxhsBGZ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/products/c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rm3l12djdv",
+      "Integrity": "o36Jd11dme1nsqo7TiC6+dWYedvml0x4K1D8y4M54Wc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/products/c9055029-211d-43b1-952a-9192356e8577_tranding_item_3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "suwitbbkv0",
+      "Integrity": "1G/LcEqSIkxWY1BdMRBqDdki3ewTMQ3m0v1jG6UFweM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/products/ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ptle3bk4s",
+      "Integrity": "bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/products/f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ptle3bk4s",
+      "Integrity": "bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/products/fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1mur5rg3dm",
+      "Integrity": "uQRk7nOEEuwpzoGBmSPF3xKmdqDI4fqgAqPCD1jHMEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.png"
+    },
+    {
       "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\single_product.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
@@ -1088,6 +1235,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\tranding_item_6.png"
     },
     {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\Yastıq_2_copy.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/images/Yastıq_2_copy#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4hqngr5uw0",
+      "Integrity": "yBEhstW/oSpz9wDlQzn8CGICtNEgg+6/fKP9wmbVTUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\Yastıq_2_copy.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
@@ -1102,11 +1270,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dvrc8s0raz",
-      "Integrity": "GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc=",
+      "Fingerprint": "nodoxw02ac",
+      "Integrity": "RxzKflGgSQoo7CDN2DGA4nYc06+RDedM3R9eIewJcbA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\Basket.js"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/js/jquery-1.11.0.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9xpkrg1c3",
+      "Integrity": "spTpc4lvj4dOkKjrGokIrHkJgNA0xMS98Pw9N7ir9oI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "assets/js/jquery-migrate-1.2.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q6ne85ne1u",
+      "Integrity": "HmfY28yh9v2U4HfIXC+0D6HCdWyZI42qjaiCFEJgpo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js"
     },
     {
       "Identity": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\slick.js",
@@ -4515,6 +4725,580 @@
       ]
     },
     {
+      "Route": "assets/images/products/5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.dcxb6wd6t7.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c+y2ftjA/OGC8R4tIQSj7hf97y2gZKoN5E/iAh5vx5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcxb6wd6t7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c+y2ftjA/OGC8R4tIQSj7hf97y2gZKoN5E/iAh5vx5w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c+y2ftjA/OGC8R4tIQSj7hf97y2gZKoN5E/iAh5vx5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c+y2ftjA/OGC8R4tIQSj7hf97y2gZKoN5E/iAh5vx5w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DglZufxhHesX61sQ31RUt03vZhb/8TE9SGCHxhsBGZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DglZufxhHesX61sQ31RUt03vZhb/8TE9SGCHxhsBGZ8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.uw70539dgq.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DglZufxhHesX61sQ31RUt03vZhb/8TE9SGCHxhsBGZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uw70539dgq"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DglZufxhHesX61sQ31RUt03vZhb/8TE9SGCHxhsBGZ8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o36Jd11dme1nsqo7TiC6+dWYedvml0x4K1D8y4M54Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:34:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o36Jd11dme1nsqo7TiC6+dWYedvml0x4K1D8y4M54Wc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.rm3l12djdv.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o36Jd11dme1nsqo7TiC6+dWYedvml0x4K1D8y4M54Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:34:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm3l12djdv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o36Jd11dme1nsqo7TiC6+dWYedvml0x4K1D8y4M54Wc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1G/LcEqSIkxWY1BdMRBqDdki3ewTMQ3m0v1jG6UFweM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 18:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1G/LcEqSIkxWY1BdMRBqDdki3ewTMQ3m0v1jG6UFweM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.suwitbbkv0.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1G/LcEqSIkxWY1BdMRBqDdki3ewTMQ3m0v1jG6UFweM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 18:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "suwitbbkv0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1G/LcEqSIkxWY1BdMRBqDdki3ewTMQ3m0v1jG6UFweM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.0ptle3bk4s.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:29:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ptle3bk4s"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:29:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.0ptle3bk4s.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ptle3bk4s"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAxzhD7Oqe6BniIrSxtPP/JGmdLTpSmoXhtg34nYvqo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.1mur5rg3dm.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uQRk7nOEEuwpzoGBmSPF3xKmdqDI4fqgAqPCD1jHMEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1mur5rg3dm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQRk7nOEEuwpzoGBmSPF3xKmdqDI4fqgAqPCD1jHMEo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.png",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\products\\fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uQRk7nOEEuwpzoGBmSPF3xKmdqDI4fqgAqPCD1jHMEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 21:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQRk7nOEEuwpzoGBmSPF3xKmdqDI4fqgAqPCD1jHMEo="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/single_product.lm0dd4by60.png",
       "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\single_product.png",
       "Selectors": [],
@@ -5335,8 +6119,8 @@
       ]
     },
     {
-      "Route": "assets/js/Basket.dvrc8s0raz.js",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+      "Route": "assets/images/Yastıq_2_copy.4hqngr5uw0.jpg",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\Yastıq_2_copy.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5345,19 +6129,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "359867"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc=\""
+          "Value": "\"yBEhstW/oSpz9wDlQzn8CGICtNEgg+6/fKP9wmbVTUQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:07:17 GMT"
+          "Value": "Tue, 22 Apr 2025 18:43:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5367,15 +6151,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dvrc8s0raz"
+          "Value": "4hqngr5uw0"
         },
         {
           "Name": "label",
-          "Value": "assets/js/Basket.js"
+          "Value": "assets/images/Yastıq_2_copy.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc="
+          "Value": "sha256-yBEhstW/oSpz9wDlQzn8CGICtNEgg+6/fKP9wmbVTUQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/Yastıq_2_copy.jpg",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\images\\Yastıq_2_copy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "359867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yBEhstW/oSpz9wDlQzn8CGICtNEgg+6/fKP9wmbVTUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 18:43:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yBEhstW/oSpz9wDlQzn8CGICtNEgg+6/fKP9wmbVTUQ="
         }
       ]
     },
@@ -5390,7 +6211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2539"
         },
         {
           "Name": "Content-Type",
@@ -5398,11 +6219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc=\""
+          "Value": "\"RxzKflGgSQoo7CDN2DGA4nYc06+RDedM3R9eIewJcbA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:07:17 GMT"
+          "Value": "Sat, 26 Apr 2025 08:04:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5412,7 +6233,216 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GdD2IsDKUoF0FTAHJ1ZQFzqcWm8o+bLwERna/or9LLc="
+          "Value": "sha256-RxzKflGgSQoo7CDN2DGA4nYc06+RDedM3R9eIewJcbA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/Basket.nodoxw02ac.js",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RxzKflGgSQoo7CDN2DGA4nYc06+RDedM3R9eIewJcbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 08:04:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nodoxw02ac"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/Basket.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RxzKflGgSQoo7CDN2DGA4nYc06+RDedM3R9eIewJcbA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery-1.11.0.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"spTpc4lvj4dOkKjrGokIrHkJgNA0xMS98Pw9N7ir9oI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Nov 2024 15:01:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-spTpc4lvj4dOkKjrGokIrHkJgNA0xMS98Pw9N7ir9oI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery-1.11.0.min.u9xpkrg1c3.js",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"spTpc4lvj4dOkKjrGokIrHkJgNA0xMS98Pw9N7ir9oI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Nov 2024 15:01:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9xpkrg1c3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery-1.11.0.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-spTpc4lvj4dOkKjrGokIrHkJgNA0xMS98Pw9N7ir9oI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery-migrate-1.2.1.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmfY28yh9v2U4HfIXC+0D6HCdWyZI42qjaiCFEJgpo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Nov 2024 15:01:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmfY28yh9v2U4HfIXC+0D6HCdWyZI42qjaiCFEJgpo0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery-migrate-1.2.1.min.q6ne85ne1u.js",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmfY28yh9v2U4HfIXC+0D6HCdWyZI42qjaiCFEJgpo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Nov 2024 15:01:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q6ne85ne1u"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery-migrate-1.2.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmfY28yh9v2U4HfIXC+0D6HCdWyZI42qjaiCFEJgpo0="
         }
       ]
     },

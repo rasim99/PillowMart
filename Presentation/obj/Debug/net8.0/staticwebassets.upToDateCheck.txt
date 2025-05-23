@@ -39,6 +39,13 @@ wwwroot\assets\images\logo.png
 wwwroot\assets\images\product_list_1.png
 wwwroot\assets\images\product_list_10.png
 wwwroot\assets\images\product_overlay.png
+wwwroot\assets\images\products\5f073bdc-a354-413a-b0ec-839c5a9788c0_tranding_item_5.png
+wwwroot\assets\images\products\a0a1f39c-e1f8-4794-a3ba-ca6a78fb5512_product_list_10.png
+wwwroot\assets\images\products\c38bef04-8a67-4708-85ae-4c3cfef0c48b_tranding_item_6.png
+wwwroot\assets\images\products\c9055029-211d-43b1-952a-9192356e8577_tranding_item_3.png
+wwwroot\assets\images\products\ef079cab-2a2a-4ff0-9c2d-5c4318ae88ff_product_list_1.png
+wwwroot\assets\images\products\f64d2d50-967e-4e69-9e03-7ab610b4d9a7_product_list_1.png
+wwwroot\assets\images\products\fc497d00-5813-4f49-9a55-f6e7442d5058_single_product_2.png
 wwwroot\assets\images\single_product.png
 wwwroot\assets\images\single_product_1.png
 wwwroot\assets\images\single_product_2.png
@@ -49,6 +56,9 @@ wwwroot\assets\images\tranding_item_3.png
 wwwroot\assets\images\tranding_item_4.png
 wwwroot\assets\images\tranding_item_5.png
 wwwroot\assets\images\tranding_item_6.png
+wwwroot\assets\images\Yastıq_2_copy.jpg
 wwwroot\assets\js\Basket.js
+wwwroot\assets\js\jquery-1.11.0.min.js
+wwwroot\assets\js\jquery-migrate-1.2.1.min.js
 wwwroot\assets\js\slick.js
 wwwroot\auth\src\style.css

@@ -31,7 +31,7 @@ namespace Core.Utilities.File
             
             return false;
         }
-        public bool IsAvailableSize(long length,long maxLength=250)
+        public bool IsAvailableSize(long length,long maxLength=24)
         {
             if(length/1024 <= maxLength) return true;
             return false;

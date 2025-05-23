@@ -7,7 +7,7 @@ namespace Presentation.Areas.Admin.Controllers
 {
     [Area("00110110")]
 
-
+    [Authorize(Roles ="Admin")]
     public class CategoryController : Controller
     {
       

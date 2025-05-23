@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548F72FA-FBBA-4512-8324-C961F4D43579}|Business\\Business.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\business\\models\\admin\\account\\accountloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548F72FA-FBBA-4512-8324-C961F4D43579}|Business\\Business.csproj|solutionrelative:business\\models\\admin\\account\\accountloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\areas\\00110110\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\00110110\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\areas\\00110110\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\00110110\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548F72FA-FBBA-4512-8324-C961F4D43579}|Business\\Business.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\business\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548F72FA-FBBA-4512-8324-C961F4D43579}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\wwwroot\\assets\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\assets\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\finalprojectofmvc\\pillowmart\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7522D709-210E-4506-AA30-2B87BBCDE462}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +70,160 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Areas\\00110110\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\00110110\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Areas\\00110110\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Presentation\\Areas\\00110110\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:11:39.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Areas\\00110110\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\00110110\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Areas\\00110110\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Presentation\\Areas\\00110110\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:10:52.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:10:13.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:10:11.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:09:56.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Business\\Services\\Concrete\\BasketService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrete\\BasketService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Business\\Services\\Concrete\\BasketService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrete\\BasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:06:50.281Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\appsettings.json",
-              "RelativeToolTip": "Presentation\\appsettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T21:17:54.879Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T08:03:58.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountLoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Business\\Models\\Admin\\Account\\AccountLoginVM.cs",
-              "RelativeDocumentMoniker": "Business\\Models\\Admin\\Account\\AccountLoginVM.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Business\\Models\\Admin\\Account\\AccountLoginVM.cs",
-              "RelativeToolTip": "Business\\Models\\Admin\\Account\\AccountLoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:16:46.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T07:53:56.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwDMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T07:43:23.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Basket.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\assets\\js\\Basket.js",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\wwwroot\\assets\\js\\Basket.js",
+              "RelativeToolTip": "Presentation\\wwwroot\\assets\\js\\Basket.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-25T22:05:33.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T22:04:18.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:04:11.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\FinalProjectOfMVC\\PillowMart\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T21:55:06.267Z"
             }
           ]
         }
